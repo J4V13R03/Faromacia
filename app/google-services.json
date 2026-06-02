@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212803230002",
+    "project_id": "faromacia",
+    "storage_bucket": "faromacia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212803230002:android:137a1e0b845f288d301f2b",
+        "android_client_info": {
+          "package_name": "cl.valparaiso.faromacia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJueMvVx-IO1vT92TQCcpKZ4JafztBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

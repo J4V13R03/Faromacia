@@ -1,0 +1,15 @@
+<resources>
+    <style name="Base.Theme.Faromacia" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorBackground">@color/colorBackground</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+    </style>
+
+    <style name="Theme.Faromacia" parent="Base.Theme.Faromacia" />
+</resources>

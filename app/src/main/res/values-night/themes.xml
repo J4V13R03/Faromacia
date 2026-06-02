@@ -1,0 +1,14 @@
+<resources>
+    <style name="Base.Theme.Faromacia" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="android:colorBackground">@color/colorBackgroundNight</item>
+        <item name="colorBackground">@color/colorBackgroundNight</item>
+        <item name="colorOnBackground">@color/colorOnBackgroundNight</item>
+        <item name="colorSurface">@color/colorSurfaceNight</item>
+        <item name="colorOnSurface">@color/colorOnSurfaceNight</item>
+    </style>
+
+    <style name="Theme.Faromacia" parent="Base.Theme.Faromacia" />
+</resources>
